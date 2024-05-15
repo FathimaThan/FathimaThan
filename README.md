@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fathima Thanseeha</h1>
-<h3 align="center">A passionate Data Science Learner from India</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+A passionate Data Science Learner from India. I recently completed an online course in Data Science and Machine Learning. I'm passionate about transforming data into actionable insights and building predictive models. Currently, I'm seeking job opportunities in data science and machine learning.
 
-- 🤝 I’m looking for help with **Data Science**
+🔍 Looking for: Exciting opportunities in data science and machine learning
+
+📚 Education: Completed an online course in Data Science and Machine Learning
+
+🔧 Skills: Python, R, SQL, Machine Learning, Data Visualization, Statistics
+
+💡 Interests: Data analysis, machine learning, artificial intelligence
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
