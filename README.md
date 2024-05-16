@@ -6,7 +6,7 @@ A passionate Data Science Learner from India. I recently completed an online cou
 
 📚 Education: Completed an online course in Data Science and Machine Learning
 
-🔧 Skills: Python, R, SQL, Machine Learning, Data Visualization, Statistics
+🔧 Skills: Python, Power BI, SQL, Machine Learning, Data Visualization, Excel
 
 💡 Interests: Data analysis, machine learning, artificial intelligence
 
