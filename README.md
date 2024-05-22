@@ -10,6 +10,19 @@ A passionate Data Science Learner from India. I recently completed an online cou
 
 💡 Interests: Data analysis, machine learning, artificial intelligence
 
+## Projects
+
+This section contains completed projects I've worked on.
+
+- [Project 1: Medical Cost Prediction using Machine Learning](https://github.com/FathimaThan/Medical_Cost_Prediction)
+
+## Learning
+
+Here, you'll find repositories related to my learning journey in data science.
+
+- [Learning Power BI Data Analysis](https://github.com/FathimaThan/Hotel_Booking_Analysis_using_Power_BI)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fathima-thanseeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathima thanseeha" height="30" width="40" /></a>
