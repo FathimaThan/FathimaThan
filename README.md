@@ -10,17 +10,18 @@ A passionate Data Science Learner from India. I recently completed an online cou
 
 💡 Interests: Data analysis, machine learning, artificial intelligence
 
-### Projects
+### Projects:
 
 This section contains completed projects I've worked on.
 
-- [Project 1: Medical Cost Prediction using Machine Learning](https://github.com/FathimaThan/Medical_Cost_Prediction)
+- [Medical Cost Prediction using Machine Learning](https://github.com/FathimaThan/Medical_Cost_Prediction)
 
-### Learning
+### Learning:
 
 Here, you'll find repositories related to my learning journey in data science.
 
-- [Learning Power BI Data Analysis](https://github.com/FathimaThan/Hotel_Booking_Analysis_using_Power_BI)
+- [Data Analytics using Power BI](https://github.com/FathimaThan/Hotel_Booking_Analysis_using_Power_BI)
+- [Basic SQL queries](https://github.com/FathimaThan/SQL-project)
 
 
 <h3 align="left">Connect with me:</h3>
