@@ -23,6 +23,7 @@ Here, you'll find repositories related to my learning journey in data science.
 
 - [Data Analytics using Power BI](https://github.com/FathimaThan/Hotel_Booking_Analysis_using_Power_BI)
 - [Basic SQL queries](https://github.com/FathimaThan/SQL-project)
+- [Bollywood movie analysis using SQL and python](https://github.com/FathimaThan/Bollywood_movie_analysis)
 
 
 <h3 align="left">Connect with me:</h3>
