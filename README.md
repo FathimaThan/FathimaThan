@@ -15,6 +15,7 @@ A passionate Data Science Learner from India. I recently completed an online cou
 This section contains completed projects I've worked on.
 
 - [Medical Cost Prediction using Machine Learning](https://github.com/FathimaThan/Medical_Cost_Prediction)
+- [Disaster Tweets Classification](https://github.com/FathimaThan/Disaster_Tweets_Classification_NLP)
 
 ### Learning:
 
