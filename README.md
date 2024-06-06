@@ -16,6 +16,7 @@ This section contains completed projects I've worked on.
 
 - [Medical Cost Prediction using Machine Learning](https://github.com/FathimaThan/Medical_Cost_Prediction)
 - [Disaster Tweets Classification](https://github.com/FathimaThan/Disaster_Tweets_Classification_NLP)
+- [India Election Result 2024 Analysis](https://github.com/FathimaThan/India_Election_2024_Analysis)
 
 ### Learning:
 
