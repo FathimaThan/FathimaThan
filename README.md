@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fathima Thanseeha</h1>
 
-A passionate Data Science Learner from India. I recently completed an online course in Data Science and Machine Learning. I'm passionate about transforming data into actionable insights and building predictive models. Currently, I'm seeking job opportunities in data science and machine learning.
+A passionate Data Science learner from India with a Bachelor's degree in Computer Applications (BCA). I recently completed an online course in Data Science and Machine Learning. I'm enthusiastic about transforming data into actionable insights and building predictive models. Currently, I'm seeking job opportunities in data science and machine learning.
 
 🔍 Looking for: Exciting opportunities in data science and machine learning
 
-📚 Education: Completed an online course in Data Science and Machine Learning
+📚 Education: Bachelor's degree in Computer Applications (BCA), Completed an online course in Data Science and Machine Learning
 
 🔧 Skills: Python, Power BI, SQL, Machine Learning, Data Visualization, Excel
 
